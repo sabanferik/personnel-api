@@ -3,7 +3,7 @@
   "info": {
     "version": "1.0.0",
     "title": "personnelapi",
-    "description": "Personnel Management API Service",
+    "description": "",
     "termsOfService": "http://www.clarusway.com",
     "contact": {
       "name": "",
@@ -13,7 +13,7 @@
       "name": "ISC"
     }
   },
-  "host": "127.0.0.1:8000",
+  "host": "https://personnel-api-puzn.onrender.com/",
   "basePath": "/",
   "schemes": [
     "http",
@@ -698,7 +698,7 @@
             },
             "default": {
               "type": "number",
-              "example": 1720162618918
+              "example": 1720174463560
             }
           }
         }
